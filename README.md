@@ -53,7 +53,6 @@ Solusi cerdas untuk mendeteksi tingkat kesegaran buah-buahan. Sangat relevan unt
 
 * **Teknologi:** Image Processing, Vercel Deployment
 * **Link:** [Deteksi Kesegaran Buah Pisang, Apel, Jambu,Pomegranate](https://fruitsense.evognito.my.id/)
-* **Link:** [Deteksi Kesegaran Buah Pisang, Apel, Jambu,Pomegranate](https://histolab.streamlit.app/)
 
 ### 5. 🔬 HistoLab (Histopathology Detection)
 
