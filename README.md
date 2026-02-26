@@ -52,7 +52,7 @@ Aplikasi untuk mengidentifikasi spesies kupu-kupu berdasarkan unggahan foto. Ber
 Solusi cerdas untuk mendeteksi tingkat kesegaran buah-buahan. Sangat relevan untuk industri retail pangan dan kontrol kualitas otomatis.
 
 * **Teknologi:** Image Processing, Vercel Deployment
-* **Link:** [Deteksi Kesegaran Buah Pisang, Apel, Jambu, Pomegranate]([https://fruitsenseml.vercel.app/](https://fruitsense.evognito.my.id/))
+* **Link:** [Deteksi Kesegaran Buah Pisang, Apel, Jambu, Pomegranate]([https://fruitsense.evognito.my.id/])
 
 ### 5. 🔬 HistoLab (Histopathology Detection)
 
