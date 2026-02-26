@@ -73,5 +73,3 @@ Secara umum, proyek-proyek di atas menggunakan ekosistem berikut:
 * **Library Pendukung:** OpenCV, NumPy, Pandas, Scikit-learn
 
 ---
-
-?
